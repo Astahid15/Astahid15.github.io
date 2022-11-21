@@ -1,4 +1,3 @@
-theme: jeky11-theme-merlot
 ## Astahid15.github.io
 Welcome to *Astahid15.github.io*
 # Top 10 songs that I listened to and Why?

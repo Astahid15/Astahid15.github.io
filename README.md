@@ -23,4 +23,4 @@ Welcome to the world of music!
 10.Hanggang Kailan
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WGfuqUmjAiw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-I appreciate your presence as we discovered the wonders of my world. Now is the moment for you to discover your own realm of wonders.
+I appreciated your presence as we discovered the wonders of my world. Now is the moment for you to discover your own realm of wonders.

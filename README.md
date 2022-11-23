@@ -1,5 +1,9 @@
-## World of Wonder
-Welcome to the world of music!
+## Get to know me!
+Welcome to my World!
+> Hello! I am Christian Advincula also known as "Shan" I am currently taking 9th grade class and I am studying at Ateneo de Naga Junior High School. 
+- Here are my social accounts
+[`Facebook`](facebook.com/christianb.advincula)
+
 # Top 10 songs that I listen to
 > "Music speaks what cannot be expressed soothes the mind and gives it rest heals the heart and makes it whole flows from heaven to the soul" they also said that "Music is the strongest form of Magic" so come with me and let's explore my own wonders of music.
 
@@ -24,4 +28,9 @@ Welcome to the world of music!
 10.Hanggang Kailan
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WGfuqUmjAiw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## Thank you!!
+
 I appreciated your presence as we discovered the wonders of my world. Now is the moment for you to discover your own realm of wonders.
+
+---
+

@@ -15,8 +15,8 @@ Welcome to the world of music!
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5oxxi0d7AQI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 6.The Ones We Loves by Ben&Ben
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xifzlRqt0qo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-7.Love is an Open Door from Frozen
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kQDw88hEr2c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+7.Lover by Taylor Swift
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ic8j13piAhQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 8.Stay With Me by Miki Matsubara
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VzS2yriuQFs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 9.Love Maybe from A Business Proposal OST 

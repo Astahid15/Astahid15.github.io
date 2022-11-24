@@ -2,7 +2,7 @@
 Welcome to my World!
 > Hello! I am Christian Advincula also known as "Shan" I am currently taking 9th grade class and I am studying at Ateneo de Naga Junior High School. 
 - Here are my social accounts
-[`Facebook`](https://www.facebook.com/christianb.advincula)[`messenger`](https://m.me/christianb.advincula)
+[`Facebook`](https://www.facebook.com/christianb.advincula)     [`messenger`](https://m.me/christianb.advincula)
 
 ### Top 10 songs that I listen to
 > "Music speaks what cannot be expressed soothes the mind and gives it rest heals the heart and makes it whole flows from heaven to the soul" they also said that "Music is the strongest form of Magic" so come with me and let's explore my own wonders of music.

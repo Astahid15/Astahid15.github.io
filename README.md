@@ -1,5 +1,5 @@
-## Get to know me!
-Welcome to my World!
+## World of Wonders
+
 > Hello! I am Christian Advincula also known as "Shan" I am currently taking 9th grade class and I am studying at Ateneo de Naga Junior High School. 
 - Here are my social accounts
 [`Facebook`](https://www.facebook.com/christianb.advincula)     [`messenger`](https://m.me/christianb.advincula)
